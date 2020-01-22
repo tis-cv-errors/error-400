@@ -5,6 +5,8 @@
 
 int main(void)
 {
+    printf("Starting...\n");
+    
     check_magic_number();
 
     char str[] = "People of Earth";
